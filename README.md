@@ -19,3 +19,7 @@ Technologies Used:
 - Author
 
 Student: Stefan Popov
+
+Changes:
+1. Project progress update
+
