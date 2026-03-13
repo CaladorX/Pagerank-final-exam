@@ -27,3 +27,4 @@ Changes:
 4. Added explanation
 5. Improved notebook
 6. More comments
+7. Final improvements
