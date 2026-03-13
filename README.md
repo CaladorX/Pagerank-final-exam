@@ -20,7 +20,7 @@ Technologies Used:
 
 Student: Stefan Popov
 
-Changes:
+Changes in the project:
 1. Project progress update
 2. Update documentation
 3. Minor improvement
