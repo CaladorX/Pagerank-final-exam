@@ -23,3 +23,4 @@ Student: Stefan Popov
 Changes:
 1. Project progress update
 2. Update documentation
+3. Minor improvement
